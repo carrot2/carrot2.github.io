@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: javadoc
+Implementation-Version: 4.0.0-beta2 (74503dde8ee231ddee0f1fe0b39d0c11448
+ ffe0b, 2020-01-24T21:00+01:00)
+
