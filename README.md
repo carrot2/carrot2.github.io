@@ -1,4 +1,7 @@
 Carrot2 Documentation
 =====================
 
-Documentation repository for Carrot2 project.
+This repository holds pre-rendered Carrot2 documentation.
+
+Go to [the project's main page](https://github.com/carrot2/carrot2)
+for more information.
