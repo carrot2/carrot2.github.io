@@ -1,0 +1,13 @@
+org.carrot2.attrs
+org.carrot2.clustering
+org.carrot2.clustering.kmeans
+org.carrot2.clustering.lingo
+org.carrot2.clustering.stc
+org.carrot2.language
+org.carrot2.math
+org.carrot2.math.matrix
+org.carrot2.text.preprocessing
+org.carrot2.text.preprocessing.filter
+org.carrot2.text.suffixtree
+org.carrot2.text.vsm
+org.carrot2.util
