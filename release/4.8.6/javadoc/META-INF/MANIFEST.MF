@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Carrot2 (https://carrot2.org)
+Implementation-Title: Carrot2 javadoc
+Implementation-Version: 4.8.6 (fa471b2f70b2f54afa594fa23f170f3bb6435c6a,
+  2026-03-08T18:00Z)
+
